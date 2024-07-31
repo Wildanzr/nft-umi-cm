@@ -27,6 +27,9 @@
       },
       "startDate": {
         "date": "2022-10-23T20:00:00Z"
+      },
+      "allowList": {
+        "merkleRoot": "fca21a265d66afd7cb77a8efde2b34783e86a324133c216f5e5c7388e2dba8f2"
       }
     }
   }
